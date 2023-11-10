@@ -1,17 +1,22 @@
-Menu de Carne 
+Develhope Restaurant
+Menú de Carne 
      
-
      Bebidas:
         - Refrescos
         - Agua
         - Vinos
 
       Entrantes:
-       - Ensalada de mezclum con virutas de jamón crujientes
-       - Croquetas de jamón
-       - Crema de calabacín con huevo poché y picatostes
+        - Ensalada de mezclum con virutas de jamón crujientes
+        - Croquetas de jamón
+        - Crema de calabacín con huevo poché y picatostes
+
+      Platos Principales:
+        - Solomillo de cordero al horno
+        - Ternera guisada con setas
+        - Costillas de cerdo con vino tinto
 
       Postres:
-        -Carne de membrillo
-        -Pastel de carne picada con pimientos y calabacin
-        -Pastel de carne murciano
+        - Carne de membrillo
+        - Pastel de carne picada con pimientos y calabacin
+        - Pastel de carne murciano
