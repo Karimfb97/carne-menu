@@ -10,3 +10,8 @@ Menu de Carne
        - Ensalada de mezclum con virutas de jamón crujientes
        - Croquetas de jamón
        - Crema de calabacín con huevo poché y picatostes
+
+      Postres:
+        -Carne de membrillo
+        -Pastel de carne picada con pimientos y calabacin
+        -Pastel de carne murciano
