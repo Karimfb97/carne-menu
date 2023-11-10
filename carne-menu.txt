@@ -5,3 +5,8 @@ Menu de Carne
         - Refrescos
         - Agua
         - Vinos
+
+      Entrantes:
+       - Ensalada de mezclum con virutas de jamón crujientes
+       - Croquetas de jamón
+       - Crema de calabacín con huevo poché y picatostes
